@@ -8540,6 +8540,11 @@ portfinder@^1.0.26:
     debug "^3.1.1"
     mkdirp "^0.5.5"
 
+posix-character-classes@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/posix-character-classes/-/posix-character-classes-1.0.0.tgz#86917ab2d252f7ea78e157bf009b9b6ea35c6cad"
+  integrity sha1-hpF6stJS9+p44Ve/AJubbqNcbK0=
+
 postcss-attribute-case-insensitive@^4.0.1:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/postcss-attribute-case-insensitive/-/postcss-attribute-case-insensitive-4.0.2.tgz#d93e46b504589e94ac7277b0463226c68041a880"
